@@ -1,50 +1,53 @@
-# ir7aln
+# ir7al
 
-My open source stuff.
+My open source corner.
 
-I'm Abdelilah (ar7al), fullstack dev from Morocco.  
-I build backend APIs, desktop apps, and random tools mostly with Go, Rust and TypeScript.
+I'm Abdelilah (ar7al / AbdelilahOu), a fullstack dev from Morocco.  
+I mostly build with Go, Rust and TypeScript — backends, desktop apps, CLI tools, and whatever I need for work or fun.
 
-Personal site → https://ar7al.dev  
-GitHub → https://github.com/AbdelilahOu
+Working at DEV-UP.
 
-### Main projects
+Personal site: https://ar7al.dev  
+GitHub: https://github.com/AbdelilahOu
+
+### Projects I put here
 
 **Mahalli**  
-Local-first inventory and invoicing desktop app for small businesses (especially B2B workflow in Morocco).  
-Built with Tauri + Rust backend, Nuxt 3 + TypeScript frontend, SQLite + Sea-ORM.  
-Uses shadcn-vue for the UI.  
+Local-first inventory & invoicing desktop app, made for small B2B businesses (especially the workflow we have in Morocco).  
+Tauri + Rust backend, Nuxt 3 + TypeScript, SQLite + Sea-ORM, shadcn-vue UI.  
 → https://github.com/AbdelilahOu/Mahalli
 
 **DBMcp**  
-Simple MCP server for PostgreSQL and MySQL. Lets AI tools (like Claude) run queries securely without needing a GUI.  
-Written in Go.  
+The only Database MCP server you need. Lets AI tools (Claude etc.) connect securely to PostgreSQL or MySQL and run queries without a GUI.  
+Built in Go.  
 → https://github.com/AbdelilahOu/DBMcp
 
 **Rusty-school**  
-Basic school management API in Rust with Actix Web, Sea-ORM, PostgreSQL and Google OAuth (access + refresh tokens).  
+Simple school management API in Rust. Uses Actix Web, Sea-ORM, PostgreSQL and Google OAuth with access + refresh tokens.  
 → https://github.com/AbdelilahOu/Rusty-school
 
 **Gobling-bank**  
-Simple banking API demo using Gin (Go), PostgreSQL, Redis + Asynq for background email verification jobs.  
+Basic banking API example with Gin (Go), PostgreSQL, Redis and Asynq for background jobs (email verification).  
 → https://github.com/AbdelilahOu/Gobling-bank
 
 **Case-ecommerce**  
-Phone cases store built with Next.js, TypeScript, Drizzle ORM, Stripe and Resend.  
+Phone cases online store. Next.js 14, TypeScript, Drizzle ORM, Stripe payments and Resend emails. Has a nice landing page too.  
 → https://github.com/AbdelilahOu/Case-ecommerce
 
 **Bubly-cli**  
-Light CLI tool (Go + Bubble Tea) to download YouTube videos, audio or transcriptions.  
+Small Go + Bubble Tea TUI to download YouTube videos, audio or transcriptions.  
 → https://github.com/AbdelilahOu/Bubly-cli
 
-### What I usually work with
-- Go & Rust for backend/tools
-- TypeScript / Next.js / Nuxt for frontend
+I also have smaller experiments like Redpanda-go (MySQL CDC setup), DocsPdf-go, CsvtoExcel-golang, etc.
+
+### What I usually use
+- Go & Rust for serious backend and tools
+- TypeScript with Next.js / Nuxt for frontend
 - Tauri for desktop apps
-- PostgreSQL, SQLite, Docker, etc.
+- PostgreSQL, SQLite, Docker, Redis...
 
-Most of these are experiments or things I needed myself. Some turned out useful, some are just for learning.
+Most of these started because I needed the tool myself or wanted to learn something new. Some are actually useful.
 
-Feel free to check them out, open issues or PRs if you want.
+Feel free to star, fork, open issues or send PRs if you find something interesting.
 
 Made in Morocco.
