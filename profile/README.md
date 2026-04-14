@@ -1,4 +1,4 @@
-# ir7al
+# ir7aln
 
 My open source corner.
 
@@ -16,27 +16,6 @@ GitHub: https://github.com/AbdelilahOu
 Local-first inventory & invoicing desktop app, made for small B2B businesses (especially the workflow we have in Morocco).  
 Tauri + Rust backend, Nuxt 3 + TypeScript, SQLite + Sea-ORM, shadcn-vue UI.  
 → https://github.com/AbdelilahOu/Mahalli
-
-**DBMcp**  
-The only Database MCP server you need. Lets AI tools (Claude etc.) connect securely to PostgreSQL or MySQL and run queries without a GUI.  
-Built in Go.  
-→ https://github.com/AbdelilahOu/DBMcp
-
-**Rusty-school**  
-Simple school management API in Rust. Uses Actix Web, Sea-ORM, PostgreSQL and Google OAuth with access + refresh tokens.  
-→ https://github.com/AbdelilahOu/Rusty-school
-
-**Gobling-bank**  
-Basic banking API example with Gin (Go), PostgreSQL, Redis and Asynq for background jobs (email verification).  
-→ https://github.com/AbdelilahOu/Gobling-bank
-
-**Case-ecommerce**  
-Phone cases online store. Next.js 14, TypeScript, Drizzle ORM, Stripe payments and Resend emails. Has a nice landing page too.  
-→ https://github.com/AbdelilahOu/Case-ecommerce
-
-**Bubly-cli**  
-Small Go + Bubble Tea TUI to download YouTube videos, audio or transcriptions.  
-→ https://github.com/AbdelilahOu/Bubly-cli
 
 I also have smaller experiments like Redpanda-go (MySQL CDC setup), DocsPdf-go, CsvtoExcel-golang, etc.
 
